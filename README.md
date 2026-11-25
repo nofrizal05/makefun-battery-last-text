@@ -1,8 +1,8 @@
 # The Battery's Last Text to Its Charger
 
-[![Built with make.fun](https://img.shields.io/badge/built%20with-make.fun-blue)](https://make.fun)
-[![make.fun](https://img.shields.io/badge/make.fun-entry-orange)](https://make.fun)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![make.fun · u-alven-the-battery-s-last-text-to-its-charger-4278cfab](https://make.fun/badge/u-alven-the-battery-s-last-text-to-its-charger-4278cfab.svg)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab)
+[![rank](https://make.fun/badge/u-alven-the-battery-s-last-text-to-its-charger-4278cfab/nofrizal05/makefun-battery-last-text/rank.svg)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab)
+[![reward](https://make.fun/badge/u-alven-the-battery-s-last-text-to-its-charger-4278cfab/nofrizal05/makefun-battery-last-text/reward.svg)](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab?utm_source=github&utm_medium=readme&utm_campaign=u-alven-the-battery-s-last-text-to-its-charger-4278cfab)
 
 A make.fun entry for **"The Battery's Last Text to Its Charger"**: write the
 phone battery's last text message to the charger it waited for all day, as
